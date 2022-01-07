@@ -1,0 +1,32 @@
+
+B
+java:S3010"'Remove this assignment of "dictionary".(¨øÄùÿÿÿÿ
+S
+java:S1854+"8Remove this useless assignment to local variable "temp".(ş‚ªÅùÿÿÿÿ
+N
+java:S1854/"8Remove this useless assignment to local variable "temp".(ŞÏğ±
+N
+java:S18545"8Remove this useless assignment to local variable "temp".(ŞÏğ±
+?
+java:S1481B")Remove this unused "temp" local variable.(úÍÚ†
+h
+java:S3776O"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Çµí‘
+V
+java:S1854P"@Remove this useless assignment to local variable "spellChecker".(î¯Ïä
+G
+java:S1481P"1Remove this unused "spellChecker" local variable.(î¯Ïä
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(ÕÎ
+M	java:S106W"9Replace this use of System.out or System.err by a logger.(ÙâÛ]
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(×É…æùÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(…¦«”ùÿÿÿÿ
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(µ£òí
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÏÕ“'
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨øÄùÿÿÿÿ
+o
+java:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğê«
+0
+java:S1220""Move this file to a named package.
